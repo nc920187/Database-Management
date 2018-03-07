@@ -1,2 +1,2 @@
 # Lab-test-respository
-Test repository generated in lab
+Test repository generated in lab.
